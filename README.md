@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navs17
+- 👋 Hi, I’m Navneet Sinha @Navs17
 - 👀 I’m interested in Competitive coding and Playing Table Tennis
 - 🌱 I’m currently learning Backend development
 
